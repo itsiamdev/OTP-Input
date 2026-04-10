@@ -9,7 +9,7 @@ A sleek and user-friendly OTP (One-Time Password) input component for web applic
 - **Customizable styling**: Easy to integrate with your existing UI
 
 ## Demo 🌐
-Check out the live demo: [https://iam269.github.io/OTP-Input/](https://iam269.github.io/OTP-Input/)
+Check out the live demo: [https://itsiamdev.github.io/OTP-Input/](https://itsiamdev.github.io/OTP-Input/)
 
 ## Usage 📖
 Simply include the HTML, CSS, and JavaScript files in your project and customize as needed.
